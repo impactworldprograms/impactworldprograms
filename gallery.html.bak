@@ -142,49 +142,41 @@
     </div>
     <!-- Page Header End -->
 
-
-
 <div class="container py-5">
     <h2 class="text-center mb-5 fw-bold">Gallery</h2>
 
     <div class="row g-4">
 
-        <div class="col-lg-4 col-md-6"><div class="card gallery-card border-0 shadow-sm"><div class="gallery-img"><img src="img/gallery/gallery1.jpg" class="img-fluid" alt=""></div></div></div>
-        <div class="col-lg-4 col-md-6"><div class="card gallery-card border-0 shadow-sm"><div class="gallery-img"><img src="img/gallery/gallery2.jpg" class="img-fluid" alt=""></div></div></div>
-        <div class="col-lg-4 col-md-6"><div class="card gallery-card border-0 shadow-sm"><div class="gallery-img"><img src="img/gallery/gallery3.jpg" class="img-fluid" alt=""></div></div></div>
-        <div class="col-lg-4 col-md-6"><div class="card gallery-card border-0 shadow-sm"><div class="gallery-img"><img src="img/gallery/gallery4.jpg" class="img-fluid" alt=""></div></div></div>
-        <div class="col-lg-4 col-md-6"><div class="card gallery-card border-0 shadow-sm"><div class="gallery-img"><img src="img/gallery/gallery5.jpg" class="img-fluid" alt=""></div></div></div>
-        <div class="col-lg-4 col-md-6"><div class="card gallery-card border-0 shadow-sm"><div class="gallery-img"><img src="img/gallery/gallery6.jpg" class="img-fluid" alt=""></div></div></div>
-        <div class="col-lg-4 col-md-6"><div class="card gallery-card border-0 shadow-sm"><div class="gallery-img"><img src="img/gallery/gallery7.jpg" class="img-fluid" alt=""></div></div></div>
-        <div class="col-lg-4 col-md-6"><div class="card gallery-card border-0 shadow-sm"><div class="gallery-img"><img src="img/gallery/gallery8.jpg" class="img-fluid" alt=""></div></div></div>
-        <div class="col-lg-4 col-md-6"><div class="card gallery-card border-0 shadow-sm"><div class="gallery-img"><img src="img/gallery/gallery9.jpg" class="img-fluid" alt=""></div></div></div>
-        <div class="col-lg-4 col-md-6"><div class="card gallery-card border-0 shadow-sm"><div class="gallery-img"><img src="img/gallery/gallery10.jpg" class="img-fluid" alt=""></div></div></div>
-        <div class="col-lg-4 col-md-6"><div class="card gallery-card border-0 shadow-sm"><div class="gallery-img"><img src="img/gallery/gallery11.jpg" class="img-fluid" alt=""></div></div></div>
-        <div class="col-lg-4 col-md-6"><div class="card gallery-card border-0 shadow-sm"><div class="gallery-img"><img src="img/gallery/gallery12.jpg" class="img-fluid" alt=""></div></div></div>
-        <div class="col-lg-4 col-md-6"><div class="card gallery-card border-0 shadow-sm"><div class="gallery-img"><img src="img/gallery/gallery13.jpg" class="img-fluid" alt=""></div></div></div>
-        <div class="col-lg-4 col-md-6"><div class="card gallery-card border-0 shadow-sm"><div class="gallery-img"><img src="img/gallery/gallery14.jpg" class="img-fluid" alt=""></div></div></div>
-        <div class="col-lg-4 col-md-6"><div class="card gallery-card border-0 shadow-sm"><div class="gallery-img"><img src="img/gallery/gallery15.jpg" class="img-fluid" alt=""></div></div></div>
-        <div class="col-lg-4 col-md-6"><div class="card gallery-card border-0 shadow-sm"><div class="gallery-img"><img src="img/gallery/gallery16.jpg" class="img-fluid" alt=""></div></div></div>
-        <div class="col-lg-4 col-md-6"><div class="card gallery-card border-0 shadow-sm"><div class="gallery-img"><img src="img/gallery/gallery17.jpg" class="img-fluid" alt=""></div></div></div>
-        <div class="col-lg-4 col-md-6"><div class="card gallery-card border-0 shadow-sm"><div class="gallery-img"><img src="img/gallery/gallery18.jpg" class="img-fluid" alt=""></div></div></div>
-        <div class="col-lg-4 col-md-6"><div class="card gallery-card border-0 shadow-sm"><div class="gallery-img"><img src="img/gallery/gallery19.jpg" class="img-fluid" alt=""></div></div></div>
-        <div class="col-lg-4 col-md-6"><div class="card gallery-card border-0 shadow-sm"><div class="gallery-img"><img src="img/gallery/gallery20.jpg" class="img-fluid" alt=""></div></div></div>
-        <div class="col-lg-4 col-md-6"><div class="card gallery-card border-0 shadow-sm"><div class="gallery-img"><img src="img/gallery/gallery21.jpg" class="img-fluid" alt=""></div></div></div>
-        <div class="col-lg-4 col-md-6"><div class="card gallery-card border-0 shadow-sm"><div class="gallery-img"><img src="img/gallery/gallery22.jpg" class="img-fluid" alt=""></div></div></div>
-        <div class="col-lg-4 col-md-6"><div class="card gallery-card border-0 shadow-sm"><div class="gallery-img"><img src="img/gallery/gallery23.jpg" class="img-fluid" alt=""></div></div></div>
-        <div class="col-lg-4 col-md-6"><div class="card gallery-card border-0 shadow-sm"><div class="gallery-img"><img src="img/gallery/gallery24.jpg" class="img-fluid" alt=""></div></div></div>
-        <div class="col-lg-4 col-md-6"><div class="card gallery-card border-0 shadow-sm"><div class="gallery-img"><img src="img/gallery/gallery25.jpg" class="img-fluid" alt=""></div></div></div>
-        <div class="col-lg-4 col-md-6"><div class="card gallery-card border-0 shadow-sm"><div class="gallery-img"><img src="img/gallery/gallery26.jpg" class="img-fluid" alt=""></div></div></div>
-        <div class="col-lg-4 col-md-6"><div class="card gallery-card border-0 shadow-sm"><div class="gallery-img"><img src="img/gallery/gallery27.jpg" class="img-fluid" alt=""></div></div></div>
-        <div class="col-lg-4 col-md-6"><div class="card gallery-card border-0 shadow-sm"><div class="gallery-img"><img src="img/gallery/gallery28.jpg" class="img-fluid" alt=""></div></div></div>
-        <div class="col-lg-4 col-md-6"><div class="card gallery-card border-0 shadow-sm"><div class="gallery-img"><img src="img/gallery/gallery29.jpg" class="img-fluid" alt=""></div></div></div>
-        <div class="col-lg-4 col-md-6"><div class="card gallery-card border-0 shadow-sm"><div class="gallery-img"><img src="img/gallery/gallery30.jpg" class="img-fluid" alt=""></div></div></div>
-        <div class="col-lg-4 col-md-6"><div class="card gallery-card border-0 shadow-sm"><div class="gallery-img"><img src="img/gallery/gallery31.jpg" class="img-fluid" alt=""></div></div></div>
-        <div class="col-lg-4 col-md-6"><div class="card gallery-card border-0 shadow-sm"><div class="gallery-img"><img src="img/gallery/gallery32.jpg" class="img-fluid" alt=""></div></div></div>
-        <div class="col-lg-4 col-md-6"><div class="card gallery-card border-0 shadow-sm"><div class="gallery-img"><img src="img/gallery/gallery33.jpg" class="img-fluid" alt=""></div></div></div>
+        <!-- Image Card -->
+        <div class="col-lg-4 col-md-6">
+            <div class="card gallery-card border-0 shadow-sm">
+                <div class="gallery-img">
+                    <img src="img/gallery/gallery1.jpg" class="img-fluid" alt="">
+                </div>
+            </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6">
+            <div class="card gallery-card border-0 shadow-sm">
+                <div class="gallery-img">
+                    <img src="img/gallery/gallery2.jpg" class="img-fluid" alt="">
+                </div>
+            </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6">
+            <div class="card gallery-card border-0 shadow-sm">
+                <div class="gallery-img">
+                    <img src="img/gallery/gallery3.jpg" class="img-fluid" alt="">
+                </div>
+            </div>
+        </div>
+
+        <!-- Add more images same way -->
 
     </div>
 </div>
+
 
 
 
