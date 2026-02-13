@@ -30,6 +30,13 @@
 
     <!-- Template Stylesheet -->
     <link href="css/style.css" rel="stylesheet">
+    <style>
+        .event-item img {
+            height: 250px; /* set desired height */
+            object-fit: cover;
+            width: 100%;
+        }
+    </style>
 </head>
 
 <body>
@@ -173,7 +180,7 @@
                     <div class="event-item h-100 p-4">
                         <img class="img-fluid w-100 mb-4" src="img/gallery-3.jpg" alt="">
                         <a href="#!" class="h3 d-inline-block">Education Program</a>
-                        <p>Through your donations and volunteer work, we spread kindness and support to children.</p>
+                        <p>Through educational events, we host training sessions, school outreach programs, and mentorship forums that equip learners with knowledge, confidence, and practical skills.</p>
                         <div class="bg-light p-4">
                             <p class="mb-1"><i class="fa fa-clock text-primary me-2"></i>10:00 AM - 18:00 PM</p>
                             <p class="mb-1"><i class="fa fa-calendar-alt text-primary me-2"></i>Jan 01 2025 - Jan 10 2025 </p>
@@ -185,7 +192,7 @@
                     <div class="event-item h-100 p-4">
                         <img class="img-fluid w-100 mb-4" src="img/donation-2.jpg" alt="">
                         <a href="#!" class="h3 d-inline-block">Awareness Program</a>
-                        <p>Through your donations and volunteer work, we spread kindness and support to children.</p>
+                        <p>Through workshops, seminars, and outreach campaigns, we raise awareness on key social and health challenges affecting families. These events promote knowledge, prevention, and community unity..</p>
                         <div class="bg-light p-4">
                             <p class="mb-1"><i class="fa fa-clock text-primary me-2"></i>10:00 AM - 18:00 PM</p>
                             <p class="mb-1"><i class="fa fa-calendar-alt text-primary me-2"></i>Feb 23 2025 - Feb 25 2025</p>
@@ -197,7 +204,7 @@
                     <div class="event-item h-100 p-4">
                         <img class="img-fluid w-100 mb-4" src="img/widows-2.jpg" alt="">
                         <a href="#!" class="h3 d-inline-block">Health Care Program</a>
-                        <p>Through your donations and volunteer work, we spread kindness and support to children.</p>
+                        <p>Through mobile clinics and health awareness events, we deliver essential medical services and guidance to families in need. These programs improve well-being and promote healthier lifestyles.</p>
                         <div class="bg-light p-4">
                             <p class="mb-1"><i class="fa fa-clock text-primary me-2"></i>10:00 AM - 18:00 PM</p>
                             <p class="mb-1"><i class="fa fa-calendar-alt text-primary me-2"></i>March 05 2025 - March 10 2025</p>
@@ -209,7 +216,7 @@
                     <div class="event-item h-100 p-4">
                         <img class="img-fluid w-100 mb-4" src="img/socialcare.jpeg" alt="">
                         <a href="#!" class="h3 d-inline-block">Social Care</a>
-                        <p>We’re creating programs that address urgent needs while fostering long-term solutions for sustainable change.</p>
+                        <p>Through outreach programs and community engagement events, we address social challenges affecting children, widows, and families. Our goal is to promote dignity, inclusion, and shared responsibility.</p>
                         <div class="bg-light p-4">
                             <p class="mb-1"><i class="fa fa-clock text-primary me-2"></i>10:00 AM - 18:00 PM</p>
                             <p class="mb-1"><i class="fa fa-calendar-alt text-primary me-2"></i>April 20 2025 - April 26 2025</p>
@@ -221,22 +228,10 @@
                     <div class="event-item h-100 p-4">
                         <img class="img-fluid w-100 mb-4" src="img/widows-5.jpg" alt="">
                         <a href="#!" class="h3 d-inline-block">Residence Facility</a>
-                        <p>Through your donations and volunteer work, we spread kindness and support to residents.</p>
+                        <p>Through visits, workshops, and community activities at our residence facilities, we create nurturing spaces where residents feel supported, valued, and empowered to grow.</p>
                         <div class="bg-light p-4">
                             <p class="mb-1"><i class="fa fa-clock text-primary me-2"></i>10:00 AM - 18:00 PM</p>
                             <p class="mb-1"><i class="fa fa-calendar-alt text-primary me-2"></i>May 2 2025 - May 10 2025</p>
-                            
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay="0.5s">
-                    <div class="event-item h-100 p-4">
-                        <img class="img-fluid w-100 mb-4" src="img/carousel-3.jpg" alt="">
-                        <a href="#!" class="h3 d-inline-block">Health Care Program</a>
-                        <p>Through your donations and volunteer work, we spread kindness and support to children.</p>
-                        <div class="bg-light p-4">
-                            <p class="mb-1"><i class="fa fa-clock text-primary me-2"></i>10:00 AM - 18:00 PM</p>
-                            <p class="mb-1"><i class="fa fa-calendar-alt text-primary me-2"></i>August 22 2025 - August 25 2025</p>
                             
                         </div>
                     </div>
